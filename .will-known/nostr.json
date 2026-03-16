@@ -1,9 +1,0 @@
-{
-  "names": {
-    "geo": "c528375129b3fc36ff026267b32955568dd6fea46ade6dd23d0a64e3c18c2160",
-    "pbtc": "36b12c74d2fc2b32e8e2dd8517867de86b1adc0007f3afcdae14aac7b0b439e7"
-  },
-  "relays": {
-    "36b12c74d2fc2b32e8e2dd8517867de86b1adc0007f3afcdae14aac7b0b439e7": [ "wss://nos.lol/","wss://nostr.land/","wss://nostr.wine/","wss://relay.damus.io/" ]
-  }
-}
